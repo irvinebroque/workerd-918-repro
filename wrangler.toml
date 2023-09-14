@@ -1,0 +1,8 @@
+name = "bold-term-c6a6"
+main = "src/worker.ts"
+compatibility_date = "2023-09-14"
+
+
+[[durable_objects.bindings]]
+name = "OBJECT"
+class_name = "TestObject"
